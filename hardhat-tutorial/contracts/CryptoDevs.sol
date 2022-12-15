@@ -5,7 +5,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "./IWhitelist.sol";
 
-// Deployed at = 0x4581a3443dBB9B15572E73dBE9149587A7EaC338
+// Deployed at = 0xC70e05806107C1482bC0753eA2D7ee0dAFAd67Cf
 
 contract CryptoDevs is ERC721Enumerable, Ownable {
     /**
